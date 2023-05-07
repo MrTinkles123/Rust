@@ -1,2 +1,3 @@
 # Rust
-rust study
+Rust 游戏开发学习
+
